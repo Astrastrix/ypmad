@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YP MAD on YP-MAD</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in YP MAD on YP-MAD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>ypmad@hotmail.com (Young People Making A Difference)</managingEditor>
+    <webMaster>ypmad@hotmail.com (Young People Making A Difference)</webMaster>
+    <copyright>© 2026 Young People Making A Difference</copyright>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ben</title>
+      <link>http://localhost:1313/our-team/adults/ben/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ypmad@hotmail.com (Young People Making A Difference)</author>
+      <guid>http://localhost:1313/our-team/adults/ben/</guid>
+      <description>Mount Morgan</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/our-team/adults/ben/FeatureBen.jpg" />
+    </item>
+    
+    <item>
+      <title>Brad</title>
+      <link>http://localhost:1313/our-team/senior-leaders/brad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ypmad@hotmail.com (Young People Making A Difference)</author>
+      <guid>http://localhost:1313/our-team/senior-leaders/brad/</guid>
+      <description>Brisbane - Graduated as a Leader in 2014</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/our-team/senior-leaders/brad/FeatureBrad.jpg" />
+    </item>
+    
+    <item>
+      <title>Brea</title>
+      <link>http://localhost:1313/our-team/trainee-leaders/brea/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ypmad@hotmail.com (Young People Making A Difference)</author>
+      <guid>http://localhost:1313/our-team/trainee-leaders/brea/</guid>
+      <description>Woodgate/Isis District - Completed Leaders Training in 2024</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/our-team/trainee-leaders/brea/FeatureBrea.jpg" />
+    </item>
+    
+    <item>
+      <title>Crystal</title>
+      <link>http://localhost:1313/our-team/trainee-leaders/crystal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ypmad@hotmail.com (Young People Making A Difference)</author>
+      <guid>http://localhost:1313/our-team/trainee-leaders/crystal/</guid>
+      <description>Bundaberg - Completed Leaders Training in 2024</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/our-team/trainee-leaders/crystal/FeatureCrystal.jpg" />
+    </item>
+    
+    <item>
+      <title>Daz</title>
+      <link>http://localhost:1313/our-team/adults/daz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ypmad@hotmail.com (Young People Making A Difference)</author>
+      <guid>http://localhost:1313/our-team/adults/daz/</guid>
+      <description>Sunshine Coast</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/our-team/adults/daz/FeatureDaz.jpg" />
+    </item>
+    
+    <item>
+      <title>Faith</title>
+      <link>http://localhost:1313/our-team/senior-leaders/faith/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ypmad@hotmail.com (Young People Making A Difference)</author>
+      <guid>http://localhost:1313/our-team/senior-leaders/faith/</guid>
+      <description>Bundaberg - Graduated as a Leader in 2023</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/our-team/senior-leaders/faith/FeatureFaith.jpg" />
+    </item>
+    
+    <item>
+      <title>Heemi</title>
+      <link>http://localhost:1313/our-team/senior-leaders/heemi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ypmad@hotmail.com (Young People Making A Difference)</author>
+      <guid>http://localhost:1313/our-team/senior-leaders/heemi/</guid>
+      <description>Rosedale - Graduated as a Leader in 2022</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/our-team/senior-leaders/heemi/FeatureHeemi.jpg" />
+    </item>
+    
+    <item>
+      <title>Jasper</title>
+      <link>http://localhost:1313/our-team/trainee-leaders/jasper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ypmad@hotmail.com (Young People Making A Difference)</author>
+      <guid>http://localhost:1313/our-team/trainee-leaders/jasper/</guid>
+      <description>Agnes Water - Completed Leaders Training in 2023</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/our-team/trainee-leaders/jasper/FeatureJasper.jpg" />
+    </item>
+    
+    <item>
+      <title>Jayde</title>
+      <link>http://localhost:1313/our-team/senior-leaders/jayde/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ypmad@hotmail.com (Young People Making A Difference)</author>
+      <guid>http://localhost:1313/our-team/senior-leaders/jayde/</guid>
+      <description>Melbourne - Graduated as a Leader in 2023</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/our-team/senior-leaders/jayde/FeatureJayde.jpg" />
+    </item>
+    
+    <item>
+      <title>Leigh-Anne</title>
+      <link>http://localhost:1313/our-team/adults/leigh-anne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ypmad@hotmail.com (Young People Making A Difference)</author>
+      <guid>http://localhost:1313/our-team/adults/leigh-anne/</guid>
+      <description>Isis District &amp;amp; Gin Gin</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/our-team/adults/leigh-anne/FeatureLeigh-Anne.jpg" />
+    </item>
+    
+    <item>
+      <title>Michael</title>
+      <link>http://localhost:1313/our-team/trainee-leaders/michael/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ypmad@hotmail.com (Young People Making A Difference)</author>
+      <guid>http://localhost:1313/our-team/trainee-leaders/michael/</guid>
+      <description>Gympie - Completed Leaders Training in 2023</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/our-team/trainee-leaders/michael/FeatureMichael.jpg" />
+    </item>
+    
+    <item>
+      <title>Ressa</title>
+      <link>http://localhost:1313/our-team/senior-leaders/ressa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ypmad@hotmail.com (Young People Making A Difference)</author>
+      <guid>http://localhost:1313/our-team/senior-leaders/ressa/</guid>
+      <description>Brisbane - Graduated as a Leader in 2014</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/our-team/senior-leaders/ressa/FeatureRessa.jpg" />
+    </item>
+    
+    <item>
+      <title>Savannah</title>
+      <link>http://localhost:1313/our-team/senior-leaders/savannah/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ypmad@hotmail.com (Young People Making A Difference)</author>
+      <guid>http://localhost:1313/our-team/senior-leaders/savannah/</guid>
+      <description>Hervey Bay - Graduated as a Leader in 2022</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/our-team/senior-leaders/savannah/FeatureSavannah.jpg" />
+    </item>
+    
+    <item>
+      <title>Shaugn</title>
+      <link>http://localhost:1313/our-team/trainee-leaders/shaugn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ypmad@hotmail.com (Young People Making A Difference)</author>
+      <guid>http://localhost:1313/our-team/trainee-leaders/shaugn/</guid>
+      <description>Mackay - Completed Leaders Training in 2023</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/our-team/trainee-leaders/shaugn/FeatureShaugn.jpg" />
+    </item>
+    
+    <item>
+      <title>Sonya</title>
+      <link>http://localhost:1313/our-team/adults/sonya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ypmad@hotmail.com (Young People Making A Difference)</author>
+      <guid>http://localhost:1313/our-team/adults/sonya/</guid>
+      <description>Miriam Vale &amp;amp; Rosedale</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/our-team/adults/sonya/FeatureSonya.jpg" />
+    </item>
+    
+    <item>
+      <title>Terrence</title>
+      <link>http://localhost:1313/our-team/adults/terrence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ypmad@hotmail.com (Young People Making A Difference)</author>
+      <guid>http://localhost:1313/our-team/adults/terrence/</guid>
+      <description>Rosedale</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/our-team/adults/terrence/FeatureTerrence.jpg" />
+    </item>
+    
+    <item>
+      <title>Tim</title>
+      <link>http://localhost:1313/our-team/adults/tim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ypmad@hotmail.com (Young People Making A Difference)</author>
+      <guid>http://localhost:1313/our-team/adults/tim/</guid>
+      <description>Bundaberg</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/our-team/adults/tim/FeatureTim.jpg" />
+    </item>
+    
+    <item>
+      <title>Tom</title>
+      <link>http://localhost:1313/our-team/trainee-leaders/tom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>ypmad@hotmail.com (Young People Making A Difference)</author>
+      <guid>http://localhost:1313/our-team/trainee-leaders/tom/</guid>
+      <description>Isis District - Completed Leaders Training in 2024</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/our-team/trainee-leaders/tom/featureTom.jpg" />
+    </item>
+    
+  </channel>
+</rss>
