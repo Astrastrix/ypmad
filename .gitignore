@@ -1,0 +1,14 @@
+# Hugo build output
+/public/
+/resources/_gen/
+
+# Hugo cache files
+/hugo_cache/**/*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
