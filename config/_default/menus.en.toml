@@ -20,6 +20,11 @@
   pageRef = "Our Team"
   weight = 20
 
+#[[main]]
+#  name = "Supporters"
+#  pageRef = "Supporters"
+#  weight = 25
+
 [[main]]
   name = "Camp Dates"
   pageRef = "Camp Dates"

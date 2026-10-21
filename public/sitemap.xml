@@ -48,11 +48,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/our-team/trainee-leaders/crystal/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/our-team/adults/daz/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
